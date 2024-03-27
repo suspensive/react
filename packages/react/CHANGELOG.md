@@ -1,5 +1,45 @@
 # @suspensive/react
 
+## 2.0.0-beta.8
+
+## 2.0.0-beta.7
+
+### Patch Changes
+
+- [#755](https://github.com/suspensive/react/pull/755) [`3f6171b`](https://github.com/suspensive/react/commit/3f6171b950807d0d09f526b564a7424a7fb70fe0) Thanks [@manudeli](https://github.com/manudeli)! - feat(\*): remove all experimental interface
+
+## 2.0.0-beta.6
+
+### Patch Changes
+
+- [#744](https://github.com/suspensive/react/pull/744) [`2bfe301`](https://github.com/suspensive/react/commit/2bfe301fd97e8cc9467245dde71ea052dbba409e) Thanks [@manudeli](https://github.com/manudeli)! - test(react): add test cases for devMode in production mode
+
+## 2.0.0-beta.5
+
+## 2.0.0-beta.4
+
+## 2.0.0-beta.3
+
+### Major Changes
+
+- [#629](https://github.com/suspensive/react/pull/629) [`73c0cc7`](https://github.com/suspensive/react/commit/73c0cc714aa4f1fe611bfb118050114dc6648926) Thanks [@manudeli](https://github.com/manudeli)! - fix(react): add getServerSnapShot in syncDevMode
+
+## 2.0.0-beta.2
+
+### Major Changes
+
+- 6a3f6f4: feat(react): remove ErrorBoundaryGroup.Reset
+
+## 2.0.0-beta.1
+
+## 2.0.0-beta.0
+
+### Major Changes
+
+- ea1c4ed: feat(react): rename Suspensive defaultOptions -> defaultProps
+- 78f5bd4: feat(react, react-query): remove deprecated apis
+- 837ed18: feat(\*): remove target react v16, v17
+
 ## 1.26.6
 
 ### Patch Changes
@@ -13,10 +53,6 @@
 - [#764](https://github.com/suspensive/react/pull/764) [`df6e6d8`](https://github.com/suspensive/react/commit/df6e6d874343ca5c3ee2a872dd2ea5484b9e36c5) Thanks [@manudeli](https://github.com/manudeli)! - fix(react): add aside, button tag, high z-index of `<DevMode/>`
 
 ## 1.26.4
-
-### Patch Changes
-
-- [#744](https://github.com/suspensive/react/pull/744) [`2bfe301`](https://github.com/suspensive/react/commit/2bfe301fd97e8cc9467245dde71ea052dbba409e) Thanks [@manudeli](https://github.com/manudeli)! - test(react): add test cases for devMode in production mode
 
 ## 1.26.3
 

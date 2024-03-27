@@ -296,10 +296,6 @@ importers:
         version: 8.4.38
 
   packages/react:
-    dependencies:
-      use-sync-external-store:
-        specifier: ^1.2.0
-        version: 1.2.0(react@18.2.0)
     devDependencies:
       '@suspensive/eslint-config':
         specifier: workspace:*
@@ -319,9 +315,6 @@ importers:
       '@types/react-dom':
         specifier: ^18.2.22
         version: 18.2.22
-      '@types/use-sync-external-store':
-        specifier: ^0.0.6
-        version: 0.0.6
       react:
         specifier: ^18.2.0
         version: 18.2.0
@@ -330,10 +323,6 @@ importers:
         version: 18.2.0(react@18.2.0)
 
   packages/react-await:
-    dependencies:
-      use-sync-external-store:
-        specifier: ^1.2.0
-        version: 1.2.0(react@18.2.0)
     devDependencies:
       '@suspensive/eslint-config':
         specifier: workspace:*
@@ -356,9 +345,6 @@ importers:
       '@types/react-dom':
         specifier: ^18.2.22
         version: 18.2.22
-      '@types/use-sync-external-store':
-        specifier: ^0.0.6
-        version: 0.0.6
       react:
         specifier: ^18.2.0
         version: 18.2.0
@@ -367,10 +353,6 @@ importers:
         version: 18.2.0(react@18.2.0)
 
   packages/react-image:
-    dependencies:
-      use-sync-external-store:
-        specifier: ^1.2.0
-        version: 1.2.0(react@18.2.0)
     devDependencies:
       '@suspensive/eslint-config':
         specifier: workspace:*
@@ -390,9 +372,6 @@ importers:
       '@types/react-dom':
         specifier: ^18.2.22
         version: 18.2.22
-      '@types/use-sync-external-store':
-        specifier: ^0.0.6
-        version: 0.0.6
       react:
         specifier: ^18.2.0
         version: 18.2.0
@@ -2847,10 +2826,6 @@ packages:
   /@types/unist@3.0.1:
     resolution: {integrity: sha512-ue/hDUpPjC85m+PM9OQDMZr3LywT+CT6mPsQq8OJtCLiERkGRcQUFvu9XASF5XWqyZFXbf15lvb3JFJ4dRLWPg==}
     dev: false
-
-  /@types/use-sync-external-store@0.0.6:
-    resolution: {integrity: sha512-zFDAD+tlpf2r4asuHEj0XH6pY6i0g5NeAHPn+15wk3BV6JA69eERFXC1gyGThDkVa1zCyKr5jox1+2LbV/AMLg==}
-    dev: true
 
   /@types/yauzl@2.10.3:
     resolution: {integrity: sha512-oJoftv0LSuaDZE3Le4DbKX+KS9G36NzOeSap90UIK0yMA/NhKJhqlSGtNDORNRaIbQfzjXDrQa0ytJ6mNRGz/Q==}
